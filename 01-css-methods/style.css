@@ -1,0 +1,11 @@
+body {
+       background-attachment: white; 
+     
+    }
+
+button {
+    background-color: orange;
+    font-size: 18px;
+     border: 3px solid #f3ef0f;
+     border-color: rgb(240, 140, 9); 
+}
